@@ -1,0 +1,16 @@
+{
+  "name": "8_mohamed_al_azawi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "product.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "8_mohamed_al_azawi": "file:",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
